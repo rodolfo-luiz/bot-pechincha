@@ -1,4 +1,4 @@
-# AliExpressPechincha
+# Bot Pechincha
 Bot em Python e Selenium para conseguir ajudas na pechincha
 
 ## Instalação 
